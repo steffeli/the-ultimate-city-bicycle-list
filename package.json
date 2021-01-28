@@ -1,0 +1,30 @@
+{
+  "name": "the-ultimate-city-bicycle-list",
+  "version": "0.0.1",
+  "description": "The package name says it all!",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "bicycles"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steffeli/the-ultimate-city-bicycle-list.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/styled-components": "^5.1.7",
+    "esbuild": "^0.8.36",
+    "typescript": "^4.1.3"
+  }
+}
