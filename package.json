@@ -13,6 +13,7 @@
     "url": "git+https://github.com/steffeli/the-ultimate-city-bicycle-list.git"
   },
   "scripts": {
+    "build": "cp public/index.html dist/ && esbuild src/index.tsx --bundle --outfile=dist/bundle.js '--define:process.env.NODE_ENV=\"production\"' --serve",
     "test": "test"
   },
   "dependencies": {
