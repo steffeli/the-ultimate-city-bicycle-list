@@ -1,1 +1,3 @@
-# den-ultimate-bysykkellista
+# Den ultimate bysykkel-lista
+
+## Get started
