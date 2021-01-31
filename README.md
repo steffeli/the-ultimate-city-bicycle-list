@@ -14,6 +14,3 @@ set CLIENT_IDENTIFIER=<some-unique-string>
 ```
 ## Start application
 To build and serve the local application first install the dependencies  by runing `npm install`. Then build and serve the application with `npm run start`. Now navigate to http://localhost:5000.
-
-## Local development
-To start the build in watch mode run `npm run watch`
