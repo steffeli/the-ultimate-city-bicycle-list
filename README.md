@@ -4,11 +4,11 @@ This application uses the open data available from Oslo Bysykkel (https://osloby
 
 ## Prerequisite
 
-To get start you need to set the `CLIENT_IDENTIFIER` environment variable in order to build and launch the app locally.
+Before you start you need to set the `CLIENT_IDENTIFIER` environment variable in order to build and launch the app locally.
 ```sh
 export CLIENT_IDENTIFIER=<some-unique-string>
 ```
-For windows to the following:
+For windows do the following:
 ```sh
 set CLIENT_IDENTIFIER=<some-unique-string>
 ```
